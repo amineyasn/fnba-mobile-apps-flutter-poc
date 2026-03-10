@@ -1,0 +1,39 @@
+# Flutter/Dart build artifacts
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android build artifacts
+android/.gradle/
+android/local.properties
+android/captures/
+android/gradlew
+android/gradlew.bat
+android/key.properties
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS build artifacts
+ios/.symlinks/
+ios/Flutter/
+ios/Pods/
+ios/Podfile.lock
+ios/Runner/GeneratedPluginRegistrant.swift
+
+# macOS
+macos/Flutter/
+macos/Pods/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
